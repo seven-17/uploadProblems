@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="user">wangpc</property>
+		<property name="password">wpc123456</property>
+		<property name="driverClass">oracle.jdbc.OracleDriver</property>
+		<property name="jdbcUrl">jdbc:oracle:thin:@localhost:1521:orcl</property>
+	</default-config> 
+</c3p0-config> 
